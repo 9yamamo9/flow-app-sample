@@ -1,6 +1,6 @@
 import './App.css'
 import './config'
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import * as fcl from "@onflow/fcl";
 
 function App() {
